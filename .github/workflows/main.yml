@@ -1,3 +1,22 @@
+#permissão para o bot escrever
+
+permissions:
+  contents: write
+# Autenticador GIT
+
+- name: Configure git
+  run: |
+    git config user.name "github-actions[bot]"
+    git config user.email "github-actions[bot]@users.noreply.github.com"
+    git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+- name: Push changes
+  run: |
+    git add .
+    git commit -m "Atualizar dist"
+    git push origin HEAD:output-branch --force
+
+#Cobrinha
 name: Generate Datas
 
 on:
