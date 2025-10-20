@@ -9,7 +9,7 @@ Me chamo João Vitor Gomes Santos, tenho 21 anos e sou natural do Rio de janeiro
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-santos-7102682b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🤖 Linguagens e Tecnologias
 
